@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Pedro Henrique  
 
-<!--
-**PedroMoreno07/PedroMoreno07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://www.pngwing.com/pt/free-png-vdmot#google_vignette" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Back-end Junior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Apaixonado por criar soluções escaláveis e eficientes.  
+
+🌐 Buscando sempre inovar e crescer na área de tecnologia.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroMoreno07&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreno07&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMoreno07&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 🔗 [Plataforma de Turismo](https://github.com/PedroMoreno07/tourism-enterprises-api)
+- 🔗 [Sistema de Gerenciamento de Tarefas](https://github.com/PedroMoreno07/Sistema-de-Gerenciamento-de-Tarefas)  
+
+---
+
+## 🌎 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-pedro-moreno)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PedroMoreno07)
+
+---
+✨ Obrigado por visitar meu perfil!
