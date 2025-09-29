@@ -1,6 +1,5 @@
 # 👋 Olá! Eu sou o Pedro Henrique  
 
-<img src="https://www.pngwing.com/pt/free-png-vdmot#google_vignette" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 💻 Desenvolvedor Back-end Junior.
 
@@ -25,15 +24,15 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroMoreno07&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreno07&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMoreno07&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
+
+</p>
+<p align="left">
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMoreno07&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
 
 ---
 
