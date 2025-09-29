@@ -25,7 +25,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMoreno07&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroMoreno07&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreno07&theme=dark&layout=compact&hide_border=false&count_private=true" alt="Top Languages" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMoreno07&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
 </p>
