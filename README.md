@@ -3,7 +3,7 @@
 
 💻 Desenvolvedor Back-end Junior.
 
-✨ Apaixonado por criar soluções escaláveis e eficientes.  
+⚒️ Apaixonado por criar soluções escaláveis e eficientes.  
 
 🌐 Buscando sempre inovar e crescer na área de tecnologia.
 
@@ -12,15 +12,16 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+<img src="https://camo.githubusercontent.com/9e8b3af8a098a645ed25b96b0cf1912032b0bd7bb20b843213b8b5325ee75d24/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="GitHub stats" width="5%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="GitHub stats" width="5%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="GitHub stats" width="5%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="GitHub stats" width="5%"/>
+<img src="https://camo.githubusercontent.com/9e97d21593512d9041b79d1df0b9d9e168b5023460ee91a2401f2937bb9be463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2d776f72646d61726b2e737667" alt="GitHub stats" width="5%"/>
+<img src="https://camo.githubusercontent.com/fe638a0898d3eae913b1f034eeb79a5889bb873acb8edf4de964584828d59d4b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" alt="GitHub stats" width="5%"/>
+<img src="https://camo.githubusercontent.com/52eb44c613bd424b64395e9060be9101446a13fa87f7a334b36d5d2892e0fd3e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2d776f72646d61726b2e737667" alt="GitHub stats" width="5%"/>
 
 ---
+
 
 ## 📊 Estatísticas do GitHub
 
@@ -42,8 +43,7 @@
 
 ## 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-pedro-moreno)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-pedro-moreno/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PedroMoreno07)
 
 ---
-✨ Obrigado por visitar meu perfil!
