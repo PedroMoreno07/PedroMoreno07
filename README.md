@@ -1,12 +1,13 @@
 # 👋 Olá! Eu sou o Pedro Henrique  
-
+<p>
 <img src="https://www.katalyze.com.br/wp-content/uploads/2021/12/Brandingggg.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 💻 Desenvolvedor Back-end Junior.
 
 ⚒️ Apaixonado por criar soluções escaláveis e eficientes.  
 
 🌐 Buscando sempre inovar e crescer na área de tecnologia.
-
+</p>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
