@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Pedro Henrique  
+# 🙋🏽‍♂️ Olá! Eu sou o Pedro Henrique  
 <p>
 <img src="https://www.katalyze.com.br/wp-content/uploads/2021/12/Brandingggg.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="250px" align="right">
 
@@ -8,6 +8,7 @@
 ⚒️ Apaixonado por criar soluções escaláveis e eficientes.  
 
 🌐 Buscando sempre inovar e crescer na área de tecnologia.
+
 </p>
 
 
